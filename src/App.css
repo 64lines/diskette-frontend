@@ -22,6 +22,27 @@
   font-size: large;
 }
 
+.app-left-panel {
+  width: 20%;
+}
+
+.menu-list-panel {
+  width: 30%;
+  float: left;
+}
+
+.file-list-panel {
+  margin-left: 30%;  
+}
+
+.hidden {
+  display: none;
+}
+
+.container {
+  margin: auto;  
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
